@@ -1,3 +1,0 @@
-- Fix plodínper nepoužívame farbu témy
-- Fix menšie problémy
-- Pridať čistý čierny tmavý tému pre OLED obrazovky

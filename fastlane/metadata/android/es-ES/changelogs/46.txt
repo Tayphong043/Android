@@ -1,1 +1,0 @@
-- Recordar pestaña del grupo de activos entre pantallas y sesiones

@@ -1,1 +1,0 @@
-- Opción para navegar por las tarjetas usando los botones de volumen

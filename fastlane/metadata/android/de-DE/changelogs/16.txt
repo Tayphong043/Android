@@ -1,5 +1,0 @@
-- Home-Screen-Shortcut bei Hinzufügen oder Bearbeiten einer Karte. (https://github.com/brarcher/loyalty-card-locker/pull/155)
-- Widget entfernt. (https://github.com/brarcher/loyalty-card-locker/pull/155)
-- Backup-Exportfehler auf Android 7+ behoben. (https://github.com/brarcher/loyalty-card-locker/pull/153)
-- MIME-Typ bei Daten-Export genauer. (https://github.com/brarcher/loyalty-card-locker/pull/156)
-- Kein Fehler bei Kartenbearbeitung. (https://github.com/brarcher/loyalty-card-locker/pull/155)
